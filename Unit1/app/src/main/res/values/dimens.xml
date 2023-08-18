@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="DimesionsBorder">1dp</dimen>
+    <dimen name="separatio">55</dimen>
+
+</resources>

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1024591931426",
+    "project_id": "fir-project-fa2c8",
+    "storage_bucket": "fir-project-fa2c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024591931426:android:a1d7dc3d13392950ddc27b",
+        "android_client_info": {
+          "package_name": "edu.mx.unipolidgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024591931426-okqkn4obetjng8gkbbujvgjg1p2f5sm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgP4j_AsBlIbl__SMQ4hmRbob1AEIpUiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024591931426-okqkn4obetjng8gkbbujvgjg1p2f5sm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024591931426:android:e885e35b5c5bab24ddc27b",
+        "android_client_info": {
+          "package_name": "edu.mx.unipolidgo.myfirebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024591931426-okqkn4obetjng8gkbbujvgjg1p2f5sm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgP4j_AsBlIbl__SMQ4hmRbob1AEIpUiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024591931426-okqkn4obetjng8gkbbujvgjg1p2f5sm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

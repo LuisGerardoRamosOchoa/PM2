@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyFirebaseProject</string>
+    <string name="hint" />
+    <string name="hint_email">Email:</string>
+    <string name="hint_password">Password:</string>
+    <string name="hint_confirm">Confirm password:</string>
+    <string name="register_text">register</string>
+    <string name="login_text">login</string>
+    <string name="upload_data">Crear nuevo platillo</string>
+    <string name="retrieve_data">Consultar platillos</string>
+</resources>
